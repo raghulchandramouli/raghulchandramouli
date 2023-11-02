@@ -25,7 +25,7 @@ Hey there! I'm Raghulchandramouli, a passionate student from India 🇮🇳 curr
 
 ## 📬 Contact
 
--You can find me on [Raghulchandraouli](https://www.linkedin.com/in/raghul-chandramouli/).
+-You can find me on [Raghulchandramouli](https://www.linkedin.com/in/raghul-chandramouli/).
 
 Looking forward to connecting with like-minded individuals and collaborating on exciting projects! 🚀
 
