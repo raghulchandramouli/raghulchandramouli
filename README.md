@@ -1,4 +1,4 @@
-# 👨‍💻 Het there
+# 👨‍💻 Heyy there
 
 ## 📚 About Me
 
