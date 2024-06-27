@@ -4,7 +4,7 @@
 
 Hey there! I'm Raghulchandramouli, a passionate student from India 🇮🇳 currently in my pre-final year of studies. I have a strong aspiration to become a skilled Machine Learning (ML) engineer. I am deeply committed to this goal and constantly honing my skillset through regular practice and continuous learning.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghul)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghulchandramouli)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎓 Education
 
