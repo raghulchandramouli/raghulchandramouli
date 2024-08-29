@@ -1,9 +1,8 @@
 # 💫 About Me:
-Hey there! I'm Raghulchandramouli, a passionate student from India 🇮🇳 currently in my pre-final year of studies. I have a strong aspiration to become a skilled Cloud-Native engineer. I am deeply committed to this goal and constantly honing my skillset through regular practice and continuous learning.
+Hey there! I'm Raghulchandramouli, a passionate student from India 🇮🇳 currently in my pre-final year of studies. I have a strong aspiration to become a skilled ML Engineer engineer. I am deeply committed to this goal and constantly honing my skillset through regular practice and continuous learning.
 
 
 ## 🌐 LinkedIn:-You can find me on [Raghulchandramouli](https://www.linkedin.com/in/raghul-chandramouli/).
-## want to see more of my works [RaghulChandramouli](https://www.kaggle.com/raghul2004)
 
 
 # 💻 Tech Stack:
