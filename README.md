@@ -15,12 +15,12 @@
 
 ### 🔹 Member of Technical Staff @ Authenta (Jan 2025 – Present)
 - Engineered a **synthetic data pipeline** generating 20k+ images for DeepFake detection
-- Boosted U-Net model validation IoU by **33%**
+- Boosted U-Net model validation IoU by **37%**
 - Implemented **Frick’s DiffSeg** and documented key insights via Weights & Biases
 
 ### 🔹 AI Engineer Intern @ NexusCare (Nov 2024 – Dec 2024)
 - Created a 50k-row Q&A corpus for insurance chatbots using Huggingface
-- Fine-tuned **LLAMA NemoTron (Nvidia)** to boost performance by **45%**
+- Fine-tuned **LLAMA NemoTron (Nvidia)** to boost performance by **41%**
 - Applied **ROUGE** and **BLEU** for evaluation & validation
 
 ---
