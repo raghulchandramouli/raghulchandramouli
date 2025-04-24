@@ -6,6 +6,9 @@
 🧠 Specializing in **Artificial Intelligence & Data Science**  
 🚀 Building real-world **AI systems**, **ML libraries**, and **Deep Learning pipelines**  
 
+> “Turning ideas into impact with intelligent systems. Let’s build something awesome together.”
+
+
 ---
 
 ## 💼 Work Experience
@@ -64,4 +67,3 @@
 
 ---
 
-> “Turning ideas into impact with intelligent systems. Let’s build something awesome together.”
