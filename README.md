@@ -2,9 +2,9 @@
 <h3 align="center">A passionate AI Reseacher</h3>
 
 
-🎓 Pre-final year student at **Anna University**  
+🎓 final year student at **Anna University**  
 🧠 Specializing in **Artificial Intelligence & Data Science**  
-🚀 Building real-world **AI systems**, **ML libraries**, and **Deep Learning pipelines**  
+🚀 Building real-world **Deep Learning Pipelines**, **ML libraries**, and **High-performance compute**  
 
 > “I try to understand intelligence by attempting to recreate it.”
 
