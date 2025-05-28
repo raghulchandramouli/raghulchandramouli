@@ -15,7 +15,7 @@
 
 ### 🔹 Member of Technical Staff @ Authenta (Jan 2025 – Present)
 - Engineered a **synthetic data pipeline** generating 20k+ images for DeepFake detection
-- Boosted U-Net model validation IoU by **37%**
+- Boosted U-Net model validation IoU by **37%** for deepfake detection
 - Implemented **Frick’s DiffSeg** and documented key insights via Weights & Biases
 - Implemented **HiFi-Net** and experimented with both **NLCDetection and HRNet**
 
