@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI Reseacher</h3>
 
 
-🎓 final year student at **Anna University**  
+🎓 final-year student at **Anna University**  
 🧠 Specializing in **Artificial Intelligence & Data Science**  
 🚀 Building real-world **Deep Learning Pipelines**, **ML libraries**, and **High-performance compute**  
 
@@ -33,10 +33,10 @@
 - Published on PyPI  
 - Includes auto-training, visual tools, and teacher-student mode
 
-### 💬 [NLPiffy](https://github.com/raghulchandramouli/NLPiiffy)
-> Real-time browser-based NLP app  
-- Sentiment analysis, summarization, entity recognition  
-- Optimized for 30% faster processing
+### 💬 [Frick-DiffSeg](https://github.com/raghulchandramouli/Frick_diffseg)
+> Real-time Deep-fake detecting algorithm  
+- Segmentation analysis, Localization, morphological recognition  
+- Optimized and trained on **A100**
 
 ---
 
