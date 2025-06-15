@@ -50,6 +50,7 @@
 
 **Languages:** Python, SQL, C++  
 **Frameworks:** Django, Flask, FastAPI, Gradio
+
 **ML/AI Tools:** PyTorch, OpenCV, Huggingface, Weights & Biases, Onnx, Tritron
 
 **Tech:** Docker, Git, AWS  
