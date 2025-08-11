@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghul</h1>
-<h3 align="center">SWE - AI @ Authenta.ai | Building robust ML pipelines, infra & tooling</h3>
+<h3 align="center">AI Researcher @ Authenta.ai | Building robust ML pipelines, infra & tooling</h3>
 
 > *“I try to understand intelligence by attempting to recreate it.”*
 
